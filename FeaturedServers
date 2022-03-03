@@ -1,0 +1,4 @@
+# IF START WITH '#' then wont try to load server.
+# FORMAT:
+#   server.ip:server.name
+hypixel.net:Hypixel
